@@ -1,4 +1,4 @@
-# Medical-chatbot_v2_Llama
+# Medical-chatbot_v3_Llama
 # 🩺 AIMO MED - Sağlık Chatbotu
 
 Bu proje, Türkçe ve İngilizce tıbbi sorulara yanıt verebilen bir **sağlık asistanı chatbot** uygulamasıdır.  
@@ -61,6 +61,8 @@ Bu komut:
 
 ![WhatsApp Görsel 2025-04-26 saat 02 30 06_a9ce5ebb](https://github.com/user-attachments/assets/c0c0ab7c-142b-4f50-a9d1-51cd212e427a)
 
+##RAG (Retrieval-Augmented Generation) Özelliği
+![WhatsApp Görsel 2025-05-03 saat 00 51 30_9beb3c53](https://github.com/user-attachments/assets/b8f03b7e-e608-4d98-a287-b729e733be3e)
 
 ---
 
